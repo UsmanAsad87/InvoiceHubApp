@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "880846666419",
+    "project_id": "invoicehub-e4bc2",
+    "storage_bucket": "invoicehub-e4bc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880846666419:android:5b09cb6652dd1ed26e0ec6",
+        "android_client_info": {
+          "package_name": "com.fast.quick.invoice.maker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880846666419-hbmvro2dqsjksdnr763urpdr5ilin3b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk63XIPP4tQEJRvqnUNL7QV7ATNM-nd6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880846666419-hbmvro2dqsjksdnr763urpdr5ilin3b0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880846666419-0kudo9e7smptruq57lthl17a89fhidac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mumazzad.invoiceProducer.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880846666419:android:8612f316544f15916e0ec6",
+        "android_client_info": {
+          "package_name": "com.mumazzad.invoice_producer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880846666419-697otd41k8gmidnp2ot69b3qgs0uv2im.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mumazzad.invoice_producer",
+            "certificate_hash": "2f54a91032fc741229ed81f2b8006fb234fe16c6"
+          }
+        },
+        {
+          "client_id": "880846666419-ada5r0m9fdt5017k7jdlose6rbdf9e31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mumazzad.invoice_producer",
+            "certificate_hash": "290ae354ecbe1f7c50a53c01f88d17407f9b2899"
+          }
+        },
+        {
+          "client_id": "880846666419-hbmvro2dqsjksdnr763urpdr5ilin3b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk63XIPP4tQEJRvqnUNL7QV7ATNM-nd6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880846666419-hbmvro2dqsjksdnr763urpdr5ilin3b0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880846666419-0kudo9e7smptruq57lthl17a89fhidac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mumazzad.invoiceProducer.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
